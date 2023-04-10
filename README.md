@@ -21,15 +21,15 @@ Prevendo Roubos de Celular
 
 #Objetivos: 
 
-Determinar a evolução das ocorrências de roubo de veículos em relação ao tempo. 
+Determinar a evolução das ocorrências de furto e roubo de veículos em relação ao tempo. 
 
-Determinar os períodos em que ocorrem os maiores números de roubo. 
+Determinar os períodos em que ocorrem os maiores números de furto e roubo. 
 
 Determinar os logradouros, bairros e regiões com maior incidência. 
 
-Determinar os locais com maiores números de roubo. 
+Determinar os locais com maiores números de furto e roubo. 
 
-Determinar modelos de veículos com maiores números de roubo. 
+Determinar modelos de veículos com maiores números de furto e roubo. 
 
 Utilizar o modelo ARIMA para prever o número de ocorrências nos próximos anos. 
 
